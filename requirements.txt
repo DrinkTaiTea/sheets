@@ -4,3 +4,5 @@ pandas
 pydeck
 streamlit
 st-gsheets-connection
+streamlit_gsheets
+GSheetsConnection
